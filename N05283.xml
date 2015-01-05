@@ -121,8 +121,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:006678_0000_1029A70A267DE990"/>
-            <pb facs="tcp:006678_0001_1029A70DC185CD10"/>
+            <pb facs="unknown:006678_0000_1029A70A267DE990"/>
+            <pb facs="unknown:006678_0001_1029A70DC185CD10"/>
             <p>Anno Regni GEORGII II. REGIS Magnae Britanniae, Franciae, &amp; Hiberniae, SECUNDO.</p>
             <p>At the Parliament begun and holden at <hi>Westminster, Anno Dom.</hi> 1728. In the Second Year of the Reign of Our Sovereign Lord <hi>GEORGE</hi> the Second, by the Grace of God, of <hi>Great Britain, France,</hi> and <hi>Ireland,</hi> King, Defender of the Faith, <hi>&amp;c.</hi>
             </p>
@@ -133,7 +133,7 @@
       </front>
       <body>
          <div type="Act_of_Parliament">
-            <pb n="15" facs="tcp:006678_0002_1029A70F51ADF870"/>
+            <pb n="15" facs="unknown:006678_0002_1029A70F51ADF870"/>
             <head>Anno secundo Georgii II. Regis.</head>
             <p>An Act for better Regulation of His Majesty's Woods in <hi>America</hi>; and for the Encourage<g ref="char:EOLhyphen"/>ment of the Importation of Masts, Yards, and Bowsprits, from that Part of <hi>Great Britain</hi> called <hi>Scotland.</hi>
             </p>
